@@ -326,9 +326,11 @@ Git Push
 | | |
 |---|---|
 | **Login Page** | ![Login](./screenshots/login.png) |
+| **Register Page** | ![Register](./screenshots/Register.png) |
 | **Dashboard** | ![Dashboard](./screenshots/dashboard.png) |
 | **Create Task** | ![Create Task](./screenshots/create-task.png) |
 | **Task Processing (Success)** | ![Task Success](./screenshots/task-success.png) |
+| **Task Complete (Success)** | ![Task Success](./screenshots/task-complete.png) |
 | **Kubernetes Pods** | ![K8s Pods](./screenshots/k8s-pods.png) |
 | **Argo CD Dashboard** | ![Argo CD](./screenshots/argocd-dashboard.png) |
 | **GitHub Actions Pipeline** | ![CI/CD](./screenshots/github-actions.png) |
