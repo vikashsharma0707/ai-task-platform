@@ -183,4 +183,3 @@ Project Structure
 ✔ HPA
 ✔ Persistent Volume Claim
 ✔ Kustomize
-✔ ArgoCD Manifest
