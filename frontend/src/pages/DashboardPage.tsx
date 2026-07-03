@@ -36,7 +36,7 @@ export function DashboardPage() {
       <div className="flex items-center justify-between mb-8">
         <div>
           <h1 className="text-2xl font-bold text-gray-900">Dashboard</h1>
-          <p className="text-gray-500 text-sm mt-1">Manage and monitor your AI processing tasks</p>
+          <p className="text-gray-500 text-sm mt-1">Manage and monitor your AI processing tasks for ci cid</p>
         </div>
         <div className="flex items-center gap-2">
           <button onClick={fetchTasks} className="btn-secondary flex items-center gap-2">
