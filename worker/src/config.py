@@ -24,10 +24,17 @@ MONGODB_URI = os.getenv(
     )
 )
 
-REDIS_HOST = os.getenv("APP_REDIS_HOST", "redis")
+# REDIS_HOST = os.getenv("APP_REDIS_HOST", "redis")
+
+# REDIS_PORT = int(
+#     os.getenv("APP_REDIS_PORT", "6379")
+# )
+
+
+REDIS_HOST = os.getenv("REDIS_HOST", "redis")
 
 REDIS_PORT = int(
-    os.getenv("APP_REDIS_PORT", "6379")
+    os.getenv("REDIS_PORT", "6379")
 )
 
 REDIS_PASSWORD = os.getenv("REDIS_PASSWORD") or None
